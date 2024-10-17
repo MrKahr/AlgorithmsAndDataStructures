@@ -1,1 +1,4 @@
+# Haskell and C compiler files
 *.exe
+*.o
+*.hi
