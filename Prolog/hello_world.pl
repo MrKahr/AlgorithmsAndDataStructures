@@ -1,5 +1,4 @@
-?- write('Hello World!'), nl.
-Hello World!
-true.
+:- initialization(main).
+main :- write('Hello World!'), nl, halt.
 
-?-
+
